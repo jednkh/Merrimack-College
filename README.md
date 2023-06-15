@@ -1,4 +1,3 @@
-# Merrimack-College
 # CSC6301 Week 5
 Takes integer inputs from the user,
 stores them in a Stack, and sorts it.
